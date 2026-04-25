@@ -1,0 +1,5 @@
+{
+  "name": "ESP32 IoT TecNaMão",
+  "description": "A high-performance React dashboard for real-time ESP32 sensor monitoring and control via WebSockets, featuring Gemini AI data analysis.",
+  "requestFramePermissions": []
+}
