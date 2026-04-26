@@ -1,8 +1,22 @@
 # ESP32 IoT Dashboard
 
-Real-time IoT dashboard that combines **ESP32 firmware**, a **React + TypeScript frontend**, and **bidirectional WebSocket communication** for environmental monitoring and actuator control.
+Real-time IoT dashboard for monitoring environmental data and controlling physical devices via ESP32.
 
-This repository is part of my portfolio as a software engineer with hands-on experience across **mobile development**, **IoT**, **frontend**, and **backend-connected products**. My main professional focus is **Flutter**, but this project highlights the kind of cross-functional work I enjoy most: bridging embedded devices, responsive interfaces, and product-oriented telemetry experiences.
+## 🌐 Live Demo
+
+👉 **https://esp32-react-dash.vercel.app/**
+
+Use **Simulation Mode** to explore the dashboard without hardware.
+
+## 🧠 Overview
+
+This project combines:
+
+* ESP32 firmware
+* React + TypeScript dashboard
+* Real-time WebSocket communication
+
+Built to demonstrate end-to-end product development across IoT, frontend, and real-time systems.
 
 ## Why this project matters
 
