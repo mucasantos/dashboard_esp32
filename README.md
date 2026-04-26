@@ -1,4 +1,5 @@
 # ESP32 IoT Dashboard
+Built with ESP32 + React + TypeScript • Real-time WebSocket communication
 
 Real-time IoT dashboard for monitoring environmental data and controlling physical devices via ESP32.
 
